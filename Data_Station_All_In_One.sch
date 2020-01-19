@@ -1410,7 +1410,7 @@ Wire Wire Line
 	1500 5000 1500 5100
 Connection ~ 1500 5100
 $Comp
-L Data_Station_All_In_One-rescue:ATMEGA328P-PU-atmel U2
+L Data_Station_All_In_One-rescue:ATMEGA328P-PU-atmel-Data_Station_All_In_One-rescue U2
 U 1 1 5DFB62E0
 P 2500 3900
 F 0 "U2" H 2550 5267 50  0000 C CNN
@@ -1433,7 +1433,7 @@ Wire Wire Line
 	1050 2500 1050 2800
 Connection ~ 1200 2800
 $Comp
-L Data_Station_All_In_One-rescue:FT232RL-Interface_USB U3
+L Data_Station_All_In_One-rescue:FT232RL-Interface_USB-Data_Station_All_In_One-rescue U3
 U 1 1 5E0975E0
 P 6500 5050
 F 0 "U3" H 6500 6228 50  0000 C CNN

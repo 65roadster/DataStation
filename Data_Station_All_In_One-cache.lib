@@ -112,11 +112,11 @@ X Shield 6 -100 -400 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Data_Station_All_In_One-rescue_ATMEGA328P-PU-atmel
+# Data_Station_All_In_One-rescue_ATMEGA328P-PU-atmel-Data_Station_All_In_One-rescue
 #
-DEF Data_Station_All_In_One-rescue_ATMEGA328P-PU-atmel U 0 40 Y Y 1 F N
+DEF Data_Station_All_In_One-rescue_ATMEGA328P-PU-atmel-Data_Station_All_In_One-rescue U 0 40 Y Y 1 F N
 F0 "U" -750 1250 50 H V L BNN
-F1 "Data_Station_All_In_One-rescue_ATMEGA328P-PU-atmel" 400 -1400 50 H V L BNN
+F1 "Data_Station_All_In_One-rescue_ATMEGA328P-PU-atmel-Data_Station_All_In_One-rescue" 400 -1400 50 H V L BNN
 F2 "DIL28" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -156,11 +156,11 @@ X (PCINT6/XTAL1/TOSC1)PB6 9 1000 500 150 L 40 40 1 1 B
 ENDDRAW
 ENDDEF
 #
-# Data_Station_All_In_One-rescue_FT232RL-Interface_USB
+# Data_Station_All_In_One-rescue_FT232RL-Interface_USB-Data_Station_All_In_One-rescue
 #
-DEF Data_Station_All_In_One-rescue_FT232RL-Interface_USB U 0 40 Y Y 1 F N
+DEF Data_Station_All_In_One-rescue_FT232RL-Interface_USB-Data_Station_All_In_One-rescue U 0 40 Y Y 1 F N
 F0 "U" -650 900 50 H V L CNN
-F1 "Data_Station_All_In_One-rescue_FT232RL-Interface_USB" 400 900 50 H V L CNN
+F1 "Data_Station_All_In_One-rescue_FT232RL-Interface_USB-Data_Station_All_In_One-rescue" 400 900 50 H V L CNN
 F2 "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
